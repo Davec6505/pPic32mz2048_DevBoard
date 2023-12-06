@@ -6,8 +6,8 @@ Project Path:       C:\Users\Git\pPic32mz2048_DevBoard\Pic32mz_Dev.prj
 Design Path:        C:\Users\Git\pPic32mz2048_DevBoard\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/6/2023 9:53:36 AM
-Editing Time:       11964 min
+Last Saved:         12/6/2023 9:58:36 PM
+Editing Time:       12654 min
 Units:              mm (precision 2)
 
 
