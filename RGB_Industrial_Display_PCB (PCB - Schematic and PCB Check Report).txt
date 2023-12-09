@@ -7,7 +7,7 @@ Design Path:        C:\Users\Git\pPic32mz2048_DevBoard\RGB_Industrial_Display_PC
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
 Last Saved:         12/8/2023 10:33:44 PM
-Editing Time:       13396 min
+Editing Time:       13425 min
 Units:              mm (precision 2)
 
 
