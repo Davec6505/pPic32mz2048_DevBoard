@@ -1,13 +1,13 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     Friday, December 08, 2023
+Report Written:     Saturday, December 09, 2023
 Project Path:       C:\Users\Git\pPic32mz2048_DevBoard\Pic32mz_Dev.prj
 Design Path:        C:\Users\Git\pPic32mz2048_DevBoard\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/8/2023 10:33:44 PM
-Editing Time:       13425 min
+Last Saved:         12/9/2023 11:22:40 AM
+Editing Time:       13433 min
 Units:              mm (precision 2)
 
 
@@ -15,10 +15,8 @@ Checking integrity of Schematic and Pcb designs in project "Pic32mz_Dev"
 ========================================================================
 
 
-Warning: Project has more than one version of Component "08055C103KATDA" ("EthernetENC28J60.sch" & "DC_DC_Converter.sch"). At least one should be reloaded otherwise results may be incorrect.
-Warning: Project has more than one version of Component "R 0.1W SMTF 1.0K" ("EthernetENC28J60.sch" & "DC_DC_Converter.sch"). At least one should be reloaded otherwise results may be incorrect.
 Warning: Net "3.3v" uses different net classes "Power" and "Signal" on different pages.
-Warning: Project has more than one version of Component "TCJA106M016R0200" ("Pic32mz2048efh.sch" & "EthernetENC28J60.sch"). At least one should be reloaded otherwise results may be incorrect.
+Warning: Net "5v" uses different net classes "Power" and "Signal" on different pages.
 Warning: Net "5v" uses different net classes "Power" and "Signal" on different pages.
 Warning: Net "GND" uses different net classes "Signal" and "Ground" on different pages.
 
